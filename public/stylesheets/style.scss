@@ -1,0 +1,16 @@
+@import "bootstrap-variables";
+@import "bootstrap";
+@import "font-awesome.css";
+
+$main-color: #179969;
+
+.navbar-form {
+  padding: 0px $navbar-padding-horizontal;
+  border: none;
+}
+
+@media (min-width: 768px) {
+  .navbar-form .form-control {
+    width: 400px;
+  }
+}
