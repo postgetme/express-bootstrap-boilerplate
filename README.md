@@ -1,6 +1,6 @@
-jade
-jquery
-bootstrap-sass
-fontawesome
-connect-assets
-nodemon
+- jade
+- jquery
+- bootstrap-sass
+- fontawesome
+- connect-assets
+- nodemon
